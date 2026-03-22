@@ -2,6 +2,8 @@
 
 A FULLY FUNCTIONAL, DEPLOYMENT-READY AI HEALTHCARE WEB APPLICATION. This repository contains a production-ready SaaS MVP for an AI-powered health assistant focused on early diagnosis, symptom checking, and rural accessibility.
 
+# Live demo link - https://lumnia-ai.vercel.app/
+
 ## Tech Stack
 - **Frontend**: Next.js 14, React, Tailwind CSS, Framer Motion, Recharts
 - **Backend**: Node.js, Express.js, TypeScript
